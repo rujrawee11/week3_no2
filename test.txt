@@ -1,2 +1,7 @@
 commit 1 (master)
+<<<<<<< HEAD
 alpha commit 123 (master)
+=======
+commit 2 (new_branch)
+commit 3 (new_branch)
+>>>>>>> newbranch
